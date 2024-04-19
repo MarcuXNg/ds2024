@@ -1,0 +1,5 @@
+/home/user/documents/file1.txt
+/home/user/pictures/photo.jpg
+/home/user/documents/folder/subfolder/file2.txt
+/home/user/music/song.mp3
+/home/user/documents/folder/file3.txt
