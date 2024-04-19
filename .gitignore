@@ -1,2 +1,4 @@
-client.exe
-server.exe
+./file_transfer_over_TCP/client.exe
+./file_transfer_over_TCP/server.exe
+./mpi/file_transfer
+./WordCount/wordcount.exe
